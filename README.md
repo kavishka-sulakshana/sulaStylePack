@@ -1,6 +1,6 @@
 # StylePack
-- This is for students who interesting to learn css.
-- If you are a beginner study this styles and understand how they perform.
+- This is for students who interested to learn css.
+- If you are a beginner, study this styles and understand how they perform.
 - You can also use these styles for any of your projects if you want.
 
 > `happy coding :)`
